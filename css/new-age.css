@@ -157,7 +157,7 @@ header {
   /* Chrome 10-25, Safari 5.1-6 */
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #000000, #ffffff);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: white;
+  color: #000000;
 }
 header .header-content {
   text-align: center;
@@ -394,8 +394,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: -webkit-linear-gradient(#808080, #808080);
+  background: linear-gradient(#808080, #808080);
 }
 .text-primary {
   color: #fdcc52;
